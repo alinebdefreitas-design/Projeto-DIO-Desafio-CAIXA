@@ -2,6 +2,7 @@ Desafio Caixa DIO de Aline Barroso de Freitas Aquino
 https://github.com/alinebdefreitas-design/Projeto-DIO-Desafio-CAIXA.git
 
 Seguem as respostas do arquivo PDF, caso nao seja possível visualizá-las:
+
 Etapa 1:
 
 Habilidades Técnicas: Pesquisa, análise e investigação/ Organização e acompanhamento de processos/ execução de tarefas com foco em eficiência, síntese de informações e explicação de conteúdos, otimização de tempo e melhoria de processos.
